@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://takeru1293.github.io/csb-kkiie/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://takeru1293.github.io/csb-kkiie/static/js/main.3760e4c8.chunk.js",
+    "main.js.map": "https://takeru1293.github.io/csb-kkiie/static/js/main.3760e4c8.chunk.js.map",
+    "runtime-main.js": "https://takeru1293.github.io/csb-kkiie/static/js/runtime-main.066f43db.js",
+    "runtime-main.js.map": "https://takeru1293.github.io/csb-kkiie/static/js/runtime-main.066f43db.js.map",
+    "static/js/2.624be7a5.chunk.js": "https://takeru1293.github.io/csb-kkiie/static/js/2.624be7a5.chunk.js",
+    "static/js/2.624be7a5.chunk.js.map": "https://takeru1293.github.io/csb-kkiie/static/js/2.624be7a5.chunk.js.map",
+    "index.html": "https://takeru1293.github.io/csb-kkiie/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://takeru1293.github.io/csb-kkiie/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.624be7a5.chunk.js.LICENSE.txt": "https://takeru1293.github.io/csb-kkiie/static/js/2.624be7a5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.066f43db.js",
+    "static/js/2.624be7a5.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.3760e4c8.chunk.js"
+  ]
+}
